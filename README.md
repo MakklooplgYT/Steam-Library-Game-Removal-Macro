@@ -9,7 +9,9 @@ Automatically removes games from your Steam library using AutoHotkey and PowerSh
 3. In the left sidebar, click **Uncategorized** to display your uncategorized games in the full Library view.<br>
 <img width="261" height="177" alt="image" src="https://github.com/user-attachments/assets/b796be20-5747-45aa-bac5-6603e5068e7e" /><br>
 4. Make sure Steam is positioned the same way as when you configured the macro.
-5. Open `SteamMacro.ahk` to launch the macro.
+5. Open `SteamMacro.ahk` to launch the macro.<br>
+<img width="368" height="630" alt="image" src="https://github.com/user-attachments/assets/f752ccc7-fb6d-4e9e-a0d3-e6f58217c1c8" /><br>
+
 
 ## Controls
 
