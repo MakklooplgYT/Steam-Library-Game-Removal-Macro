@@ -15,4 +15,5 @@ AutoHotkey v2<br>
 PowerShell<br>
 Tesseract OCR<br>
 <br>
-Note: Keep an eye on the macro while it runs. Removing games from your Steam account may be permanent, and some games or licenses may not support removal through the same method.
+Note: Keep an eye on the macro while it runs. Removing games from your Steam account may be permanent, and some games or licenses may not support removal through the same method.<br>
+Also, games that cost money will not get removed. This is why you need to keep an eye on the monitor while the macro is running. When the macro hits one of these paid games. You need to remove it from your account manually a different way. Can't just simply press Remove from account.
